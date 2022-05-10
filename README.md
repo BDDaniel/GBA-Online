@@ -1,7 +1,3 @@
-# GBA Games Page:
-
-https://playnintendo.github.io/gba
-
-# GBA Emulator Core Used:
+# Núcleo del emulador de GBA utilizado:
 
 https://github.com/taisel/IodineGBA
